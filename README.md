@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Gladness
+### I'm a developer
 
+- 🔭 I’m currently working on a coding project
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate on Java projects
+- 🤔 I’m looking for help with it
+- 💬 Ask me about:
+- 📫 How to reach me:
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: 
 
-**GladnessM/GladnessM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a project...
-- 🌱 I’m currently learning java...
-- 👯 I’m looking to collaborate on Java projects...
-- 🤔 I’m looking for help with it...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her...
-- ⚡ Fun fact: ...
--->
